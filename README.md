@@ -14,21 +14,22 @@ y cuantificar el impacto financiero para una empresa de ~1,500 personas.
 
 ## Hallazgos Clave
 - Tasa de rotación global: **16.1%**
-- El departamento de **Ventas** tiene la mayor rotación (~21%)
-- Empleados con **horas extra** tienen 3x más probabilidad de rotar
+- El departamento de **Ventas** tiene la mayor rotación (20.6%)
+- Empleados con **horas extra** tienen 3x más probabilidad de rotar (Sin horas extra **10.4%** Vs Con horas extra **30.5%**)
 - La rotación ocurre principalmente en los **primeros 2 años**
-- **Costo total estimado: ~$XX millones USD**
+- **Costo total estimado: $17,594,904 USD**
 
 ## Estructura del Proyecto
 ```
 ├── WA_Fn-UseC_-HR-Employee-Attrition.csv  ← Dataset original
-├── hr_attrition_analysis.ipynb             ← Análisis completo
+├── Configuración del entorno e importación.py ← Análisis completo
 ├── hr_attrition_clean.csv                  ← Dataset limpio
 ├── hr_costo_rotacion.csv                   ← Dataset costos
+├── hr_kpis_summary                         ← Dataset resumen
 ├── dashboard_powerbi.pbix                  ← Dashboard Power BI
 └── img/
-    └── dashboard_preview.png
+    └── eda_rotacion_empleados
 ```
 
 ## Dashboard Power BI
-![Dashboard Preview](img/dashboard_preview.png)
+(falta actualizarlo)
