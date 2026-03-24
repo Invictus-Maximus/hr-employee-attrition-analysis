@@ -1,0 +1,238 @@
+﻿Department,JobRole,MonthlyIncome,salario_anual,costo_reemplazo,nivel_costo,YearsAtCompany,JobSatisfaction,OverTime
+Sales,Sales Executive,5993,71916,71916.0,medio,6,4,Yes
+Research & Development,Laboratory Technician,2090,25080,12540.0,bajo,0,3,Yes
+Research & Development,Laboratory Technician,2028,24336,12168.0,bajo,4,3,Yes
+Sales,Sales Representative,3407,40884,40884.0,medio,5,1,No
+Research & Development,Research Scientist,2960,35520,17760.0,bajo,4,1,No
+Research & Development,Research Scientist,3919,47028,47028.0,medio,10,1,Yes
+Sales,Sales Representative,2086,25032,12516.0,bajo,1,4,No
+Research & Development,Research Scientist,2293,27516,13758.0,bajo,2,4,Yes
+Sales,Sales Representative,2683,32196,16098.0,bajo,3,3,Yes
+Research & Development,Laboratory Technician,2293,27516,13758.0,bajo,1,3,No
+Research & Development,Research Director,19545,234540,469080.0,alto,22,3,No
+Research & Development,Laboratory Technician,5381,64572,64572.0,medio,1,3,Yes
+Research & Development,Laboratory Technician,3441,41292,41292.0,medio,2,3,Yes
+Research & Development,Research Scientist,3388,40656,40656.0,medio,1,3,Yes
+Sales,Sales Executive,9619,115428,230856.0,alto,9,4,No
+Human Resources,Human Resources,2073,24876,12438.0,bajo,3,1,Yes
+Research & Development,Laboratory Technician,2926,35112,17556.0,bajo,1,4,Yes
+Sales,Sales Executive,5744,68928,68928.0,medio,6,3,Yes
+Research & Development,Laboratory Technician,6074,72888,72888.0,medio,9,3,Yes
+Research & Development,Research Scientist,4963,59556,59556.0,medio,5,2,Yes
+Sales,Sales Executive,6172,74064,74064.0,medio,7,3,Yes
+Research & Development,Healthcare Representative,10312,123744,247488.0,alto,40,4,No
+Sales,Sales Representative,1675,20100,10050.0,bajo,0,3,Yes
+Sales,Sales Executive,4559,54708,54708.0,medio,2,3,Yes
+Research & Development,Manufacturing Director,10650,127800,255600.0,alto,4,4,No
+Research & Development,Laboratory Technician,4200,50400,50400.0,medio,5,1,No
+Sales,Sales Representative,2325,27900,13950.0,bajo,0,1,No
+Research & Development,Laboratory Technician,1102,13224,6612.0,bajo,1,4,No
+Sales,Sales Representative,3140,37680,37680.0,medio,4,2,Yes
+Research & Development,Manufacturing Director,5916,70992,70992.0,medio,1,3,Yes
+Research & Development,Healthcare Representative,6673,80076,80076.0,medio,1,1,Yes
+Sales,Sales Executive,7639,91668,91668.0,medio,10,4,No
+Sales,Sales Executive,10400,124800,249600.0,alto,14,4,No
+Research & Development,Research Scientist,2657,31884,15942.0,bajo,5,1,Yes
+Sales,Sales Executive,6696,80352,80352.0,medio,6,1,No
+Research & Development,Research Scientist,2058,24696,12348.0,bajo,6,3,No
+Research & Development,Research Scientist,2389,28668,14334.0,bajo,4,4,Yes
+Research & Development,Laboratory Technician,2436,29232,14616.0,bajo,5,4,Yes
+Research & Development,Laboratory Technician,2707,32484,16242.0,bajo,9,1,No
+Research & Development,Laboratory Technician,3730,44760,44760.0,medio,3,3,Yes
+Research & Development,Manufacturing Director,10048,120576,241152.0,alto,1,3,No
+Research & Development,Laboratory Technician,3479,41748,41748.0,medio,5,2,No
+Research & Development,Laboratory Technician,3485,41820,41820.0,medio,0,3,No
+Research & Development,Manager,11849,142188,284376.0,alto,10,2,Yes
+Research & Development,Laboratory Technician,3161,37932,37932.0,medio,1,3,Yes
+Research & Development,Laboratory Technician,2373,28476,14238.0,bajo,3,2,Yes
+Sales,Sales Executive,5828,69936,69936.0,medio,8,4,Yes
+Research & Development,Laboratory Technician,1420,17040,8520.0,bajo,0,3,No
+Research & Development,Research Scientist,4941,59292,59292.0,medio,8,2,No
+Research & Development,Research Scientist,3464,41568,41568.0,medio,3,4,Yes
+Sales,Sales Executive,5238,62856,62856.0,medio,1,3,Yes
+Research & Development,Laboratory Technician,2119,25428,12714.0,bajo,7,1,Yes
+Sales,Sales Representative,2174,26088,13044.0,bajo,3,2,Yes
+Sales,Sales Representative,2851,34212,17106.0,bajo,1,3,Yes
+Sales,Sales Executive,9355,112260,224520.0,alto,8,2,No
+Sales,Sales Executive,6380,76560,76560.0,medio,6,3,Yes
+Sales,Sales Representative,2716,32592,16296.0,bajo,1,2,No
+Sales,Sales Executive,5304,63648,63648.0,medio,5,4,Yes
+Research & Development,Research Scientist,3102,37224,37224.0,medio,6,1,No
+Research & Development,Research Scientist,2285,27420,13710.0,bajo,1,4,Yes
+Research & Development,Laboratory Technician,4031,48372,48372.0,medio,2,1,No
+Sales,Sales Representative,3202,38424,38424.0,medio,5,2,Yes
+Sales,Sales Representative,2351,28212,14106.0,bajo,2,3,No
+Research & Development,Research Scientist,2546,30552,15276.0,bajo,2,2,No
+Human Resources,Human Resources,2564,30768,15384.0,bajo,1,4,No
+Research & Development,Manager,13610,163320,326640.0,alto,7,3,Yes
+Research & Development,Laboratory Technician,3408,40896,40896.0,medio,4,4,No
+Research & Development,Healthcare Representative,9824,117888,235776.0,alto,1,3,No
+Human Resources,Human Resources,9950,119400,238800.0,alto,3,1,Yes
+Research & Development,Laboratory Technician,3894,46728,46728.0,medio,2,3,No
+Human Resources,Human Resources,2741,32892,16446.0,bajo,7,3,Yes
+Sales,Sales Representative,1878,22536,11268.0,bajo,0,2,Yes
+Research & Development,Laboratory Technician,2340,28080,14040.0,bajo,1,4,Yes
+Sales,Sales Executive,4707,56484,56484.0,medio,4,3,No
+Research & Development,Laboratory Technician,2886,34632,17316.0,bajo,6,3,Yes
+Sales,Sales Representative,2033,24396,12198.0,bajo,1,1,No
+Sales,Sales Executive,4233,50796,50796.0,medio,3,1,No
+Sales,Sales Representative,3041,36492,36492.0,medio,4,1,No
+Sales,Sales Executive,4286,51432,51432.0,medio,1,1,No
+Research & Development,Research Scientist,1009,12108,6054.0,bajo,1,3,Yes
+Research & Development,Research Scientist,3348,40176,40176.0,medio,10,1,Yes
+Sales,Sales Executive,4577,54924,54924.0,medio,2,3,No
+Sales,Sales Executive,6796,81552,81552.0,medio,4,3,Yes
+Research & Development,Research Scientist,2216,26592,13296.0,bajo,7,2,Yes
+Research & Development,Research Scientist,2759,33108,16554.0,bajo,2,3,Yes
+Research & Development,Research Scientist,2686,32232,16116.0,bajo,10,4,Yes
+Sales,Sales Executive,6397,76764,76764.0,medio,5,3,Yes
+Research & Development,Manager,19859,238308,476616.0,alto,5,1,Yes
+Sales,Sales Executive,5326,63912,63912.0,medio,4,1,No
+Research & Development,Laboratory Technician,1601,19212,9606.0,bajo,0,1,Yes
+Research & Development,Laboratory Technician,2319,27828,13914.0,bajo,1,1,Yes
+Sales,Sales Executive,5324,63888,63888.0,medio,3,1,No
+Research & Development,Research Director,19246,230952,461904.0,alto,31,2,Yes
+Research & Development,Research Scientist,4382,52584,52584.0,medio,2,3,No
+Sales,Sales Executive,7654,91848,91848.0,medio,9,4,No
+Sales,Sales Executive,5160,61920,61920.0,medio,9,4,No
+Research & Development,Research Scientist,2366,28392,14196.0,bajo,8,3,Yes
+Research & Development,Research Scientist,2022,24264,12132.0,bajo,10,2,Yes
+Sales,Sales Representative,2800,33600,16800.0,bajo,3,3,Yes
+Research & Development,Laboratory Technician,2795,33540,16770.0,bajo,1,4,Yes
+Research & Development,Laboratory Technician,2380,28560,14280.0,bajo,1,4,Yes
+Sales,Sales Representative,2044,24528,12264.0,bajo,2,3,No
+Research & Development,Research Scientist,2693,32316,16158.0,bajo,1,4,No
+Research & Development,Manufacturing Director,4171,50052,50052.0,medio,3,3,Yes
+Research & Development,Laboratory Technician,2778,33336,16668.0,bajo,7,4,Yes
+Research & Development,Laboratory Technician,2404,28848,14424.0,bajo,2,1,Yes
+Sales,Sales Representative,2413,28956,14478.0,bajo,1,2,Yes
+Sales,Sales Representative,2121,25452,12726.0,bajo,1,2,Yes
+Research & Development,Laboratory Technician,2973,35676,17838.0,bajo,1,1,No
+Sales,Sales Executive,10325,123900,247800.0,alto,16,4,Yes
+Sales,Sales Executive,10609,127308,254616.0,alto,14,3,No
+Research & Development,Research Scientist,2479,29748,14874.0,bajo,1,3,No
+Sales,Sales Executive,13194,158328,316656.0,alto,1,2,Yes
+Research & Development,Research Scientist,2321,27852,13926.0,bajo,3,1,Yes
+Research & Development,Research Scientist,2404,28848,14424.0,bajo,0,1,Yes
+Research & Development,Research Scientist,2132,25584,12792.0,bajo,5,3,Yes
+Research & Development,Laboratory Technician,3743,44916,44916.0,medio,4,2,Yes
+Research & Development,Research Scientist,2600,31200,15600.0,bajo,1,1,Yes
+Research & Development,Laboratory Technician,2422,29064,14532.0,bajo,3,2,No
+Research & Development,Healthcare Representative,4777,57324,57324.0,medio,1,2,No
+Sales,Sales Executive,4969,59628,59628.0,medio,2,1,No
+Sales,Manager,19845,238140,476280.0,alto,32,4,No
+Research & Development,Laboratory Technician,2743,32916,16458.0,bajo,17,1,No
+Research & Development,Laboratory Technician,4834,58008,58008.0,medio,1,3,No
+Research & Development,Research Scientist,2042,24504,12252.0,bajo,3,1,Yes
+Sales,Sales Representative,2323,27876,13938.0,bajo,2,4,Yes
+Research & Development,Laboratory Technician,1416,16992,8496.0,bajo,1,1,No
+Research & Development,Research Scientist,2461,29532,14766.0,bajo,10,3,Yes
+Research & Development,Healthcare Representative,8722,104664,209328.0,alto,10,1,No
+Human Resources,Human Resources,10482,125784,251568.0,alto,20,1,No
+Sales,Sales Executive,9582,114984,229968.0,alto,8,1,Yes
+Research & Development,Research Scientist,4508,54096,54096.0,medio,13,3,No
+Research & Development,Laboratory Technician,3691,44292,44292.0,medio,7,4,Yes
+Research & Development,Laboratory Technician,2377,28524,14262.0,bajo,1,3,No
+Research & Development,Research Scientist,2313,27756,13878.0,bajo,2,2,Yes
+Research & Development,Laboratory Technician,2596,31152,15576.0,bajo,1,2,No
+Sales,Sales Executive,4728,56736,56736.0,medio,0,3,Yes
+Research & Development,Healthcare Representative,12169,146028,292056.0,alto,18,4,No
+Research & Development,Laboratory Technician,1904,22848,11424.0,bajo,0,3,No
+Sales,Sales Executive,8224,98688,197376.0,alto,5,1,Yes
+Research & Development,Laboratory Technician,2610,31320,15660.0,bajo,2,3,No
+Sales,Sales Executive,7336,88032,88032.0,medio,11,1,No
+Sales,Sales Executive,13758,165096,330192.0,alto,21,1,Yes
+Research & Development,Laboratory Technician,2515,30180,15090.0,bajo,1,4,Yes
+Sales,Sales Executive,5346,64152,64152.0,medio,4,3,No
+Research & Development,Research Scientist,2936,35232,17616.0,bajo,6,3,Yes
+Research & Development,Research Scientist,2853,34236,17118.0,bajo,0,4,Yes
+Research & Development,Research Scientist,2107,25284,12642.0,bajo,1,1,No
+Research & Development,Laboratory Technician,2210,26520,13260.0,bajo,1,2,No
+Research & Development,Research Scientist,1859,22308,11154.0,bajo,1,2,Yes
+Sales,Sales Representative,1118,13416,6708.0,bajo,1,4,Yes
+Sales,Manager,18824,225888,451776.0,alto,24,2,Yes
+Research & Development,Laboratory Technician,2625,31500,15750.0,bajo,2,3,No
+Research & Development,Healthcare Representative,7978,95736,95736.0,medio,10,4,No
+Research & Development,Laboratory Technician,3339,40068,40068.0,medio,7,3,Yes
+Research & Development,Laboratory Technician,4883,58596,58596.0,medio,10,3,No
+Research & Development,Research Scientist,3904,46848,46848.0,medio,5,1,No
+Sales,Sales Executive,9094,109128,218256.0,alto,5,2,Yes
+Sales,Sales Executive,8446,101352,202704.0,alto,8,2,Yes
+Sales,Sales Representative,2302,27624,13812.0,bajo,3,2,Yes
+Research & Development,Laboratory Technician,2362,28344,14172.0,bajo,3,1,No
+Research & Development,Manufacturing Director,10008,120096,240192.0,alto,10,1,Yes
+Sales,Sales Executive,13695,164340,328680.0,alto,19,3,Yes
+Sales,Sales Representative,2785,33420,16710.0,bajo,1,4,No
+Sales,Sales Executive,4614,55368,55368.0,medio,4,3,Yes
+Research & Development,Manufacturing Director,6179,74148,74148.0,medio,10,3,Yes
+Research & Development,Research Scientist,2394,28728,14364.0,bajo,8,3,Yes
+Research & Development,Laboratory Technician,4284,51408,51408.0,medio,4,1,No
+Research & Development,Healthcare Representative,7553,90636,90636.0,medio,8,4,Yes
+Sales,Sales Representative,1359,16308,8154.0,bajo,1,3,No
+Research & Development,Research Scientist,1261,15132,7566.0,bajo,1,2,No
+Sales,Sales Representative,4400,52800,52800.0,medio,3,1,No
+Sales,Sales Executive,10096,121152,242304.0,alto,7,4,No
+Research & Development,Laboratory Technician,3646,43752,43752.0,medio,1,1,Yes
+Research & Development,Manufacturing Director,7446,89352,89352.0,medio,10,2,No
+Research & Development,Laboratory Technician,3722,44664,44664.0,medio,2,4,Yes
+Human Resources,Human Resources,2742,32904,16452.0,bajo,2,3,No
+Sales,Sales Representative,2909,34908,17454.0,bajo,3,3,No
+Sales,Sales Executive,5765,69180,69180.0,medio,5,2,No
+Sales,Sales Executive,4599,55188,55188.0,medio,15,2,Yes
+Research & Development,Laboratory Technician,3172,38064,38064.0,medio,0,1,Yes
+Research & Development,Laboratory Technician,2561,30732,15366.0,bajo,0,1,No
+Research & Development,Research Scientist,2362,28344,14172.0,bajo,9,1,No
+Research & Development,Laboratory Technician,2018,24216,12108.0,bajo,5,1,No
+Research & Development,Research Scientist,4084,49008,49008.0,medio,7,3,No
+Sales,Sales Executive,9714,116568,233136.0,alto,10,1,No
+Research & Development,Laboratory Technician,2074,24888,12444.0,bajo,1,1,Yes
+Research & Development,Manufacturing Director,10169,122028,244056.0,alto,33,4,No
+Research & Development,Manufacturing Director,4855,58260,58260.0,medio,5,2,No
+Research & Development,Laboratory Technician,2408,28896,14448.0,bajo,1,2,Yes
+Sales,Sales Representative,1569,18828,9414.0,bajo,0,4,Yes
+Sales,Sales Executive,10306,123672,247344.0,alto,13,1,No
+Sales,Sales Executive,5440,65280,65280.0,medio,2,4,Yes
+Research & Development,Laboratory Technician,2166,25992,12996.0,bajo,4,1,Yes
+Sales,Sales Executive,4581,54972,54972.0,medio,11,4,Yes
+Research & Development,Laboratory Technician,3989,47868,47868.0,medio,5,3,Yes
+Sales,Sales Representative,2655,31860,15930.0,bajo,9,3,Yes
+Research & Development,Laboratory Technician,1393,16716,8358.0,bajo,1,2,No
+Sales,Sales Representative,2275,27300,13650.0,bajo,3,4,Yes
+Human Resources,Human Resources,1555,18660,9330.0,bajo,1,3,No
+Sales,Sales Executive,12936,155232,310464.0,alto,23,3,No
+Sales,Sales Executive,6134,73608,73608.0,medio,2,1,Yes
+Sales,Sales Executive,6735,80820,80820.0,medio,0,2,No
+Human Resources,Human Resources,2180,26160,13080.0,bajo,4,4,No
+Sales,Sales Representative,2760,33120,16560.0,bajo,2,2,No
+Sales,Sales Executive,8564,102768,205536.0,alto,0,1,Yes
+Sales,Sales Executive,8161,97932,195864.0,alto,1,3,No
+Research & Development,Research Scientist,2437,29244,14622.0,bajo,1,3,Yes
+Sales,Sales Representative,2679,32148,16074.0,bajo,1,2,No
+Research & Development,Laboratory Technician,2398,28776,14388.0,bajo,1,1,Yes
+Research & Development,Research Scientist,2342,28104,14052.0,bajo,5,2,Yes
+Sales,Sales Executive,5813,69756,69756.0,medio,10,4,Yes
+Research & Development,Laboratory Technician,5346,64152,64152.0,medio,7,1,No
+Research & Development,Manufacturing Director,4213,50556,50556.0,medio,10,1,No
+Human Resources,Human Resources,2148,25776,12888.0,bajo,5,2,Yes
+Research & Development,Healthcare Representative,8926,107112,214224.0,alto,9,2,No
+Human Resources,Human Resources,2956,35472,17736.0,bajo,1,1,No
+Human Resources,Human Resources,2335,28020,14010.0,bajo,2,1,Yes
+Sales,Sales Executive,9907,118884,237768.0,alto,2,2,Yes
+Research & Development,Research Scientist,2439,29268,14634.0,bajo,1,4,Yes
+Sales,Sales Executive,7314,87768,87768.0,medio,8,2,No
+Sales,Sales Representative,1081,12972,6486.0,bajo,1,4,No
+Research & Development,Research Scientist,2472,29664,14832.0,bajo,1,2,Yes
+Research & Development,Research Scientist,2307,27684,13842.0,bajo,5,1,Yes
+Research & Development,Laboratory Technician,2587,31044,15522.0,bajo,4,4,No
+Sales,Sales Representative,1091,13092,6546.0,bajo,1,1,No
+Sales,Sales Executive,9854,118248,236496.0,alto,2,3,Yes
+Research & Development,Research Scientist,2432,29184,14592.0,bajo,4,3,Yes
+Human Resources,Human Resources,2863,34356,17178.0,bajo,1,2,No
+Research & Development,Laboratory Technician,2367,28404,14202.0,bajo,4,4,No
+Sales,Sales Executive,5617,67404,67404.0,medio,10,4,Yes
+Sales,Sales Executive,10448,125376,250752.0,alto,2,1,Yes
+Sales,Sales Representative,1790,21480,10740.0,bajo,1,1,No
+Research & Development,Research Scientist,4787,57444,57444.0,medio,2,4,Yes
+Research & Development,Laboratory Technician,2339,28068,14034.0,bajo,10,3,No
+Sales,Sales Executive,6728,80736,80736.0,medio,6,3,No
+Sales,Sales Executive,10854,130248,260496.0,alto,3,1,Yes
