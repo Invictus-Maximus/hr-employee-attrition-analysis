@@ -20,16 +20,19 @@ y cuantificar el impacto financiero para una empresa de ~1,500 personas.
 - **Costo total estimado: $17,594,904 USD**
 
 ## Estructura del Proyecto
-```
+
 ├── WA_Fn-UseC_-HR-Employee-Attrition.csv  ← Dataset original
 ├── Configuración del entorno e importación.py ← Análisis completo
 ├── hr_attrition_clean.csv                  ← Dataset limpio
 ├── hr_costo_rotacion.csv                   ← Dataset costos
 ├── hr_kpis_summary                         ← Dataset resumen
-├── dashboard_powerbi.pbix                  ← Dashboard Power BI
+├── dashboard_preview.pbix                  ← Dashboard Power BI
 └── img/
     └── eda_rotacion_empleados
-```
+    └── dashboard_preview.pdf
+
 
 ## Dashboard Power BI
-(falta actualizarlo)
+<img width="999" height="520" alt="image" src="https://github.com/user-attachments/assets/e507df81-f6f2-4005-af50-f512b0236ee3" />
+<img width="1404" height="750" alt="image" src="https://github.com/user-attachments/assets/e30c1b96-bd81-4100-8f45-fdd38e39e382" />
+
