@@ -21,15 +21,15 @@ y cuantificar el impacto financiero para una empresa de ~1,500 personas.
 
 ## Estructura del Proyecto
 
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv  ← Dataset original
-├── Configuración del entorno e importación.py ← Análisis completo
-├── hr_attrition_clean.csv                  ← Dataset limpio
-├── hr_costo_rotacion.csv                   ← Dataset costos
-├── hr_kpis_summary                         ← Dataset resumen
-├── dashboard_preview.pbix                  ← Dashboard Power BI
-└── img/
-    └── eda_rotacion_empleados
-    └── dashboard_preview.pdf
+- WA_Fn-UseC_-HR-Employee-Attrition.csv  ← Dataset original
+- Configuración del entorno e importación.py ← Análisis completo
+- hr_attrition_clean.csv                  ← Dataset limpio
+- hr_costo_rotacion.csv                   ← Dataset costos
+- hr_kpis_summary                         ← Dataset resumen
+- dashboard_preview.pbix                  ← Dashboard Power BI
+- img/
+  - eda_rotacion_empleados
+  - dashboard_preview.pdf
 
 
 ## Dashboard Power BI
